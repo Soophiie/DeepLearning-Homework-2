@@ -19,6 +19,7 @@ Before running, mount your Google Drive and ensure your dataset is under: /conte
 
 Otherwise you should change the dataset_root path
 
+
 ## Requirements
 
 - Python 3.8+
@@ -33,5 +34,6 @@ Otherwise you should change the dataset_root path
 ### Installation (recommandé sur Google Colab)
 ```bash
 pip install torch torchvision pycocotools matplotlib tqdm Pillow
-
-
+```
+## Performance snapshot
+![Capture d'écran 2025-04-16 201739](https://github.com/user-attachments/assets/825103a9-6ba7-4a5c-91a6-f8c4c3d9c10b)
